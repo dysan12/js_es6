@@ -1,3 +1,4 @@
+'use strict';
 /**
  * Class render received JSON data from server. It is, handling every error, information,
  * redirection and response passed from server. Required instance of DialogBoxes[used methods: create(string, string, int)](responsible for displaying messages).
